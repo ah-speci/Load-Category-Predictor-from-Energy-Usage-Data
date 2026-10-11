@@ -1,0 +1,11 @@
+# Core data and machine-learning libraries
+pandas
+numpy
+scikit-learn
+joblib
+
+# Notebook and visualization tools
+jupyter
+ipykernel
+matplotlib
+seaborn
